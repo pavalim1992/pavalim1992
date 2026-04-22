@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Alex Johnson 👋
 
-<!--
-**pavalim1992/pavalim1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer from the UK, currently working at **TechWave Solutions**. I specialize in **crypto trading**, **machine learning**, and **web development**. Always exploring new technologies and building exciting projects!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- 🖥️ **Languages**: Python, JavaScript, Go, C++
+- 🌐 **Web Development**: HTML, CSS, React, Node.js
+- 📊 **Data Analysis & ML**: Pandas, NumPy, TensorFlow
+- 🔒 **Security & Crypto**: Crypto trading algorithms, Blockchain basics
+- 🧑‍💻 **DevOps**: Docker, Kubernetes, CI/CD
